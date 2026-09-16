@@ -1,0 +1,31 @@
+{
+    "afiliados": [
+        {
+            "nome": "ABC Performance",
+            "qualidade": "Excelente",
+            "trafego": 12450,
+            "leads": 780,
+            "conversao": 8.4,
+            "receita": 42500,
+            "insight": "O afiliado apresentou crescimento de 21% no período. O crescimento da receita foi superior ao do tráfego."
+        },
+        {
+            "nome": "Marketing Ninja",
+            "qualidade": "Bom",
+            "trafego": 8300,
+            "leads": 410,
+            "conversao": 4.9,
+            "receita": 18200,
+            "insight": "Volume de tráfego estável, mas a conversão caiu levemente. Recomenda-se revisar as campanhas."
+        },
+        {
+            "nome": "Lead Master",
+            "qualidade": "Atenção",
+            "trafego": 15000,
+            "leads": 300,
+            "conversao": 2.0,
+            "receita": 9000,
+            "insight": "Alto volume de cliques, porém baixíssima qualificação. Tráfego não alinhado com o público premium."
+        }
+    ]
+}
