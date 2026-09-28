@@ -1,31 +1,220 @@
 {
-    "afiliados": [
-        {
-            "nome": "ABC Performance",
-            "qualidade": "Excelente",
-            "trafego": 12450,
-            "leads": 780,
-            "conversao": 8.4,
-            "receita": 42500,
-            "insight": "O afiliado apresentou crescimento de 21% no período. O crescimento da receita foi superior ao do tráfego."
-        },
-        {
-            "nome": "Marketing Ninja",
-            "qualidade": "Bom",
-            "trafego": 8300,
-            "leads": 410,
-            "conversao": 4.9,
-            "receita": 18200,
-            "insight": "Volume de tráfego estável, mas a conversão caiu levemente. Recomenda-se revisar as campanhas."
-        },
-        {
-            "nome": "Lead Master",
-            "qualidade": "Atenção",
-            "trafego": 15000,
-            "leads": 300,
-            "conversao": 2.0,
-            "receita": 9000,
-            "insight": "Alto volume de cliques, porém baixíssima qualificação. Tráfego não alinhado com o público premium."
-        }
-    ]
+  "afiliados": [
+    {
+      "nome": "dionatannascimento",
+      "trafego": 24526,
+      "leads": 58,
+      "conversao": 0.2,
+      "receita": 1178.68,
+      "qualidade": "Excelente",
+      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas."
+    },
+    {
+      "nome": "kimarjr",
+      "trafego": 9117,
+      "leads": 1501,
+      "conversao": 16.5,
+      "receita": 1072.50,
+      "qualidade": "Excelente",
+      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas."
+    },
+    {
+      "nome": "rubsmar",
+      "trafego": 6975,
+      "leads": 7,
+      "conversao": 0.1,
+      "receita": 147.00,
+      "qualidade": "Bom",
+      "insight": "Resultados consistentes. Há espaço para otimização de conversão."
+    },
+    {
+      "nome": "douglas0892",
+      "trafego": 2138,
+      "leads": 22,
+      "conversao": 1.0,
+      "receita": 28.80,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+    },
+    {
+      "nome": "Edivan28",
+      "trafego": 3290,
+      "leads": 2,
+      "conversao": 0.1,
+      "receita": 9.60,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+    },
+    {
+      "nome": "EVOLUTIONCARTOES",
+      "trafego": 2824,
+      "leads": 5,
+      "conversao": 0.2,
+      "receita": 9.00,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+    },
+    {
+      "nome": "Aprovador",
+      "trafego": 60,
+      "leads": 2,
+      "conversao": 3.3,
+      "receita": 4.20,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+    },
+    {
+      "nome": "gilsonsilva15",
+      "trafego": 560,
+      "leads": 2,
+      "conversao": 0.4,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
+    },
+    {
+      "nome": "giselemello",
+      "trafego": 84,
+      "leads": 2,
+      "conversao": 2.4,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
+    },
+    {
+      "nome": "LehMelo",
+      "trafego": 12,
+      "leads": 1,
+      "conversao": 8.3,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
+    },
+    {
+      "nome": "C4_emprestimos",
+      "trafego": 91,
+      "leads": 1,
+      "conversao": 1.1,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
+    },
+    {
+      "nome": "tati2323",
+      "trafego": 73,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "Emprestimos_",
+      "trafego": 46,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "tellescorretora",
+      "trafego": 17,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "SraLima",
+      "trafego": 18,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "LojasG7",
+      "trafego": 3,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "Fielpromotora",
+      "trafego": 49,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "LUIZNETTO",
+      "trafego": 37,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "AdriellyNobre",
+      "trafego": 5,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "Acesso_rapido_",
+      "trafego": 21,
+      "leads": 3,
+      "conversao": 14.3,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "Atendimentocartao",
+      "trafego": 1,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "ConsultorGuilhermeC",
+      "trafego": 2,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "CréditoRápido82",
+      "trafego": 29,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    },
+    {
+      "nome": "vitorgomes",
+      "trafego": 4,
+      "leads": 0,
+      "conversao": 0.0,
+      "receita": 0.00,
+      "qualidade": "Atenção",
+      "insight": "Sem conversões registradas."
+    }
+  ]
 }
