@@ -1,220 +1,7217 @@
 {
   "afiliados": [
     {
-      "nome": "dionatannascimento",
-      "trafego": 24526,
-      "leads": 58,
-      "conversao": 0.2,
-      "receita": 1178.68,
+      "nome": "kimarjr",
+      "trafego": 21149,
+      "leads": 3149,
+      "receita": 2239.5,
+      "conversao": 14.9,
       "qualidade": "Excelente",
-      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas."
+      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 3683,
+          "leads": 740,
+          "receita": 513.3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 3155,
+          "leads": 649,
+          "receita": 468.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 2703,
+          "leads": 451,
+          "receita": 320.1
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 1775,
+          "leads": 290,
+          "receita": 213.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 2157,
+          "leads": 321,
+          "receita": 192.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 1598,
+          "leads": 287,
+          "receita": 192
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 1514,
+          "leads": 222,
+          "receita": 162.9
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 1217,
+          "leads": 139,
+          "receita": 113.1
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 452,
+          "leads": 39,
+          "receita": 33.3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 48,
+          "leads": 2,
+          "receita": 11.1
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 27,
+          "leads": 2,
+          "receita": 11.1
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 11,
+          "leads": 1,
+          "receita": 4.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 36,
+          "leads": 3,
+          "receita": 1.8
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 128,
+          "leads": 2,
+          "receita": 1.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 25,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 862,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 847,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 142,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 89,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 45,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 43,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Julho 2025",
+          "trafego": 38,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 38,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 24,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 18,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 18,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Maio 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Março 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Abril 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "kimarjr",
-      "trafego": 9117,
-      "leads": 1501,
-      "conversao": 16.5,
-      "receita": 1072.50,
+      "nome": "dionatannascimento",
+      "trafego": 57470,
+      "leads": 103,
+      "receita": 2123.68,
+      "conversao": 0.2,
       "qualidade": "Excelente",
-      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas."
+      "insight": "Parceiro de alto rendimento. Manter incentivos e escalar campanhas.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 4061,
+          "leads": 29,
+          "receita": 609
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 1743,
+          "leads": 23,
+          "receita": 483
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 2815,
+          "leads": 15,
+          "receita": 315
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 1949,
+          "leads": 12,
+          "receita": 252
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 2105,
+          "leads": 11,
+          "receita": 231
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 540,
+          "leads": 7,
+          "receita": 147
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 3582,
+          "leads": 4,
+          "receita": 84
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 462,
+          "leads": 1,
+          "receita": 2.08
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 37,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 6198,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 5540,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 4211,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 3662,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 3282,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 3188,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 3057,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 2643,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 2632,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 1856,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 1606,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1432,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 815,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Março 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
       "nome": "rubsmar",
-      "trafego": 6975,
-      "leads": 7,
-      "conversao": 0.1,
-      "receita": 147.00,
+      "trafego": 16594,
+      "leads": 38,
+      "receita": 438.71,
+      "conversao": 0.2,
       "qualidade": "Bom",
-      "insight": "Resultados consistentes. Há espaço para otimização de conversão."
+      "insight": "Resultados consistentes. Há espaço para otimização de conversão.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 438,
+          "leads": 5,
+          "receita": 105
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 191,
+          "leads": 4,
+          "receita": 84
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 433,
+          "leads": 2,
+          "receita": 42
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 274,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 263,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 214,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 168,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 150,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 148,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 121,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 100,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 567,
+          "leads": 10,
+          "receita": 19.59
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2025",
+          "trafego": 177,
+          "leads": 1,
+          "receita": 12.6
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 358,
+          "leads": 8,
+          "receita": 7.52
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1736,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 977,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 926,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 724,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 485,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 392,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 361,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 336,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 328,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 314,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 304,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 250,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 244,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 217,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 214,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 210,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 199,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 198,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 189,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 173,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 159,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 152,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 148,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 148,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 145,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 144,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 142,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 138,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 134,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 118,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 118,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 114,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 111,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 110,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 105,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 104,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 104,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 97,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 89,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 76,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2026",
+          "trafego": 73,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 73,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 73,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 71,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 70,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 68,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 67,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 66,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2026",
+          "trafego": 63,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 63,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 52,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 51,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 48,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 45,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 45,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 40,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 40,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2026",
+          "trafego": 38,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 36,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 36,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 32,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 31,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2026",
+          "trafego": 29,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2026",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2026",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 19,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 18,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 15,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 15,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
       "nome": "douglas0892",
-      "trafego": 2138,
-      "leads": 22,
-      "conversao": 1.0,
-      "receita": 28.80,
-      "qualidade": "Atenção",
-      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+      "trafego": 5934,
+      "leads": 104,
+      "receita": 231.02,
+      "conversao": 1.8,
+      "qualidade": "Bom",
+      "insight": "Resultados consistentes. Há espaço para otimização de conversão.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 9,
+          "leads": 3,
+          "receita": 63
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 293,
+          "leads": 6,
+          "receita": 37.52
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 66,
+          "leads": 2,
+          "receita": 25.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 411,
+          "leads": 41,
+          "receita": 24.6
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 34,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 32,
+          "leads": 1,
+          "receita": 12.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 25,
+          "leads": 4,
+          "receita": 12.3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 111,
+          "leads": 16,
+          "receita": 9.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 87,
+          "leads": 13,
+          "receita": 7.8
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Abril 2025",
+          "trafego": 18,
+          "leads": 1,
+          "receita": 4.2
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Maio 2025",
+          "trafego": 14,
+          "leads": 1,
+          "receita": 4.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 74,
+          "leads": 5,
+          "receita": 3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 49,
+          "leads": 3,
+          "receita": 1.8
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 27,
+          "leads": 2,
+          "receita": 1.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 19,
+          "leads": 2,
+          "receita": 1.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 19,
+          "leads": 2,
+          "receita": 1.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 9,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 633,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 320,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 314,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 211,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 171,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 148,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 132,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 115,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 103,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 99,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 98,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 93,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 88,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 77,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 76,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 71,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 71,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 70,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 68,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 68,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 61,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 51,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 47,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 46,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 40,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 39,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 38,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 36,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2026",
+          "trafego": 36,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 35,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 35,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Março 2025",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 33,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 33,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 33,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 32,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 32,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 32,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 31,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 28,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 28,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 27,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2026",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 19,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 19,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 18,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Julho 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2026",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2026",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Julho 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Março 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Abril 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Maio 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "Edivan28",
-      "trafego": 3290,
-      "leads": 2,
-      "conversao": 0.1,
-      "receita": 9.60,
-      "qualidade": "Atenção",
-      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+      "nome": "Josemarinho",
+      "trafego": 7428,
+      "leads": 41,
+      "receita": 124.17,
+      "conversao": 0.6,
+      "qualidade": "Bom",
+      "insight": "Resultados consistentes. Há espaço para otimização de conversão.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 310,
+          "leads": 18,
+          "receita": 105.86
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 148,
+          "leads": 4,
+          "receita": 6.91
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 23,
+          "leads": 5,
+          "receita": 3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 42,
+          "leads": 4,
+          "receita": 2.4
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 36,
+          "leads": 4,
+          "receita": 2.4
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 18,
+          "leads": 3,
+          "receita": 1.8
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 21,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 13,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 3,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 775,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 651,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 510,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 488,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 458,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 446,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 409,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 354,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 344,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 334,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 332,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 247,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 209,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 203,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 157,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 118,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 115,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 113,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 56,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 43,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 31,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 28,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 25,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Julho 2025",
+          "trafego": 23,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Julho 2025",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 15,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Maio 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Maio 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Junho 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Junho 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Julho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Abril 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Março 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Julho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao de Todos - Beneficios - CPA",
+          "mes": "Março 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "gabrielfury",
+      "trafego": 1904,
+      "leads": 59,
+      "receita": 63.42,
+      "conversao": 3.1,
+      "qualidade": "Bom",
+      "insight": "Resultados consistentes. Há espaço para otimização de conversão.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 511,
+          "leads": 47,
+          "receita": 38.1
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2026",
+          "trafego": 36,
+          "leads": 1,
+          "receita": 12.6
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 55,
+          "leads": 2,
+          "receita": 7.32
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 41,
+          "leads": 3,
+          "receita": 1.8
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 21,
+          "leads": 2,
+          "receita": 1.2
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2026",
+          "trafego": 23,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 13,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 8,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 3,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 305,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 284,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 145,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 145,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 106,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
       "nome": "EVOLUTIONCARTOES",
-      "trafego": 2824,
-      "leads": 5,
-      "conversao": 0.2,
-      "receita": 9.00,
+      "trafego": 1423,
+      "leads": 11,
+      "receita": 27,
+      "conversao": 0.8,
       "qualidade": "Atenção",
-      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 107,
+          "leads": 1,
+          "receita": 21
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 130,
+          "leads": 5,
+          "receita": 3
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 47,
+          "leads": 3,
+          "receita": 1.8
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 69,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 39,
+          "leads": 1,
+          "receita": 0.6
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 176,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2026",
+          "trafego": 90,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 68,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 56,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 49,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 48,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 46,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 31,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 29,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "Aprovador",
-      "trafego": 60,
-      "leads": 2,
-      "conversao": 3.3,
-      "receita": 4.20,
+      "nome": "Tiagostocochemim",
+      "trafego": 270,
+      "leads": 17,
+      "receita": 10.2,
+      "conversao": 6.3,
       "qualidade": "Atenção",
-      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 200,
+          "leads": 10,
+          "receita": 6
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 50,
+          "leads": 7,
+          "receita": 4.2
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "gilsonsilva15",
-      "trafego": 560,
-      "leads": 2,
-      "conversao": 0.4,
-      "receita": 0.00,
+      "nome": "atualizo",
+      "trafego": 658,
+      "leads": 3,
+      "receita": 2.28,
+      "conversao": 0.5,
       "qualidade": "Atenção",
-      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 36,
+          "leads": 2,
+          "receita": 1.8
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 26,
+          "leads": 1,
+          "receita": 0.48
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 100,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 53,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 53,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 42,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 41,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 39,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 38,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 35,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 30,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 22,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 15,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "giselemello",
-      "trafego": 84,
-      "leads": 2,
-      "conversao": 2.4,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
-    },
-    {
-      "nome": "LehMelo",
-      "trafego": 12,
-      "leads": 1,
-      "conversao": 8.3,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
-    },
-    {
-      "nome": "C4_emprestimos",
-      "trafego": 91,
-      "leads": 1,
-      "conversao": 1.1,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Tráfego detectado, mas sem geração de receita no período analisado."
-    },
-    {
-      "nome": "tati2323",
-      "trafego": 73,
+      "nome": "leandrovieira",
+      "trafego": 142,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 29,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 23,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "Emprestimos_",
-      "trafego": 46,
+      "nome": "GennesySouza",
+      "trafego": 67,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 24,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "tellescorretora",
-      "trafego": 17,
+      "nome": "reidoscartoes",
+      "trafego": 85,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "SraLima",
-      "trafego": 18,
+      "nome": "divino",
+      "trafego": 564,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 37,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 36,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 34,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 33,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 26,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 24,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 21,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 20,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 18,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 17,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 16,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Outubro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "LojasG7",
-      "trafego": 3,
+      "nome": "JRMIDIA",
+      "trafego": 131,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "Fielpromotora",
-      "trafego": 49,
-      "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
-    },
-    {
-      "nome": "LUIZNETTO",
-      "trafego": 37,
-      "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
-    },
-    {
-      "nome": "AdriellyNobre",
+      "nome": "Renata_Gleice",
       "trafego": 5,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Abril 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "Acesso_rapido_",
-      "trafego": 21,
-      "leads": 3,
-      "conversao": 14.3,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
-    },
-    {
-      "nome": "Atendimentocartao",
-      "trafego": 1,
+      "nome": "ALTARENDA",
+      "trafego": 159,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
-      "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 15,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 13,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 12,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 11,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 10,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 9,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "ConsultorGuilhermeC",
+      "nome": "Maxiis",
+      "trafego": 127,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "Moiseseliaspro",
+      "trafego": 15,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "inteligente.digital",
+      "trafego": 90,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Abril 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Maio 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Abril 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Abril 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Junho 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Maio 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Abril 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Julho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Junho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Junho 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Setembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Seguros - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Acordo Certo - Negociacao de Dividas - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "Hannibal2012",
+      "trafego": 10,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Outubro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "utua.com.br",
+      "trafego": 44,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Dezembro 2025",
+          "trafego": 8,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Junho 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Novembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Julho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Novembro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "JNCONTENT",
+      "trafego": 61,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Novembro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Setembro 2025",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Outubro 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "jesseribeiro",
+      "trafego": 95,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 7,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2026",
+          "trafego": 6,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Abril 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Abril 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 4,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Junho 2026",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Março 2025",
+          "trafego": 3,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Dezembro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Dezembro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "integration",
+      "trafego": 3,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Agosto 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "wm_system",
+      "trafego": 0,
+      "leads": 1,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 0,
+          "leads": 1,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "tallesdinheiro",
+      "trafego": 17,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Janeiro 2025",
+          "trafego": 14,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Março 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "Furao87",
+      "trafego": 14,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 5,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "Alexandrekofxv",
       "trafego": 2,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "CréditoRápido82",
-      "trafego": 29,
+      "nome": "jefersonfranco",
+      "trafego": 9,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2025",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Bom Pra Credito - Emprestimo Pessoal",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Juros Baixos - Emprestimos - CPL",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "UP.P Emprestimos - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     },
     {
-      "nome": "vitorgomes",
+      "nome": "iDinheiro",
       "trafego": 4,
       "leads": 0,
-      "conversao": 0.0,
-      "receita": 0.00,
+      "receita": 0,
+      "conversao": 0,
       "qualidade": "Atenção",
-      "insight": "Sem conversões registradas."
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Fevereiro 2026",
+          "trafego": 2,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Fevereiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Março 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "Jonathansilvapro",
+      "trafego": 1,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Cartao Proteste - CPA",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "dicasdecredito",
+      "trafego": 2,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "SuperSim - Emprestimo Pessoal - CPL",
+          "mes": "Janeiro 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "tirra",
+      "trafego": 926,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Desperdício",
+      "insight": "Muito tráfego sem geração de receita. Revisar estratégia urgentemente.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Maio 2025",
+          "trafego": 924,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2025",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
+    },
+    {
+      "nome": "luis0236",
+      "trafego": 2,
+      "leads": 0,
+      "receita": 0,
+      "conversao": 0,
+      "qualidade": "Atenção",
+      "insight": "Baixo volume de receita gerada. Necessário revisar a estratégia de tráfego.",
+      "campanhas": [
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Julho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        },
+        {
+          "nome": "Finanzero Emprestimos - CPA",
+          "mes": "Junho 2026",
+          "trafego": 1,
+          "leads": 0,
+          "receita": 0
+        }
+      ]
     }
   ]
 }
