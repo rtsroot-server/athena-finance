@@ -46,9 +46,14 @@
         .podium-2 { color: #c0c0c0; }
         .podium-3 { color: #cd7f32; }
         
-        /* Botão Info */
+        /* Botões Interativos */
         .info-btn { cursor: pointer; transition: 0.2s; }
         .info-btn:hover { color: #3b82f6 !important; }
+        
+        /* Tabela Personalizada */
+        .table-responsive { max-height: 250px; overflow-y: auto; }
+        .table-responsive::-webkit-scrollbar { width: 6px; }
+        .table-responsive::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 4px; }
     </style>
 </head>
 <body>
@@ -93,7 +98,7 @@
                     <span class="badge bg-primary px-3 py-2 rounded-pill"><i class="bi bi-calendar3 me-1"></i> Histórico Completo</span>
                 </div>
 
-                <!-- KPIs -->
+                <!-- KPIs Globais -->
                 <div class="row g-4 mb-4">
                     <div class="col-md-3">
                         <div class="card premium-card p-3 h-100">
@@ -144,7 +149,7 @@
                 <div class="row g-4">
                     <!-- Coluna Esquerda: Análise Individual -->
                     <div class="col-lg-8">
-                        <div class="card premium-card p-4 h-100">
+                        <div class="card premium-card p-4 h-100 d-flex flex-column">
                             <div class="d-flex justify-content-between align-items-center mb-4">
                                 <h5 class="fw-bold text-dark mb-0"><i class="bi bi-search me-2 text-primary"></i>Raio-X do Afiliado</h5>
                                 <select id="seletorAfiliado" class="form-select shadow-sm" style="width: auto; min-width: 200px;" onchange="atualizarFicha(this.value)"></select>
@@ -191,6 +196,27 @@
                                 </div>
                                 <div class="progress" style="height: 10px;">
                                     <div id="barraConversao" class="progress-bar bg-primary" role="progressbar" style="width: 0%"></div>
+                                </div>
+                            </div>
+
+                            <!-- Tabela de Campanhas -->
+                            <div class="mt-2 mb-4">
+                                <h6 class="fw-bold text-dark mb-3"><i class="bi bi-megaphone-fill text-info me-2"></i>Desempenho por Campanha</h6>
+                                <div class="table-responsive border rounded">
+                                    <table class="table table-sm table-hover align-middle mb-0">
+                                        <thead class="table-light sticky-top">
+                                            <tr>
+                                                <th class="ps-3 text-secondary small">Campanha</th>
+                                                <th class="text-secondary small">Mês</th>
+                                                <th class="text-center text-secondary small">Tráfego</th>
+                                                <th class="text-center text-secondary small">Leads</th>
+                                                <th class="text-end pe-3 text-secondary small">Receita</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="tabelaCampanhas">
+                                            <!-- Preenchido via JavaScript -->
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
 
@@ -283,7 +309,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
     <script>
-        // Navegação
+        // Navegação de Telas
         function mudarTela(idTela, elementoClicado) {
             document.getElementById('tela-dashboard').style.display = 'none';
             document.getElementById('tela-estatisticas').style.display = 'none';
@@ -292,12 +318,12 @@
             elementoClicado.parentElement.classList.add('active');
         }
 
-        // Sidebar Collapse
+        // Recolher Sidebar
         document.getElementById('sidebarCollapse').addEventListener('click', function () {
             document.getElementById('sidebar').classList.toggle('collapsed');
         });
 
-        // Lógica de Dados
+        // Lógica de Extração e Preenchimento de Dados
         let dadosAfiliados = [];
         
         fetch('/api/dados')
@@ -353,12 +379,12 @@
                     `;
                 });
 
-                // 2. Piores 5 (Menor Receita, desempatando por Maior Tráfego Desperdiçado)
+                // 2. Piores 5 (Menor Receita, desempatando por Maior Tráfego)
                 const piores = [...dadosAfiliados].sort((a, b) => {
                     if (a.receita !== b.receita) {
-                        return a.receita - b.receita; // Crescente: 0, 1, 2...
+                        return a.receita - b.receita; 
                     }
-                    return b.trafego - a.trafego; // Desempate: quem mandou mais tráfego fica pior
+                    return b.trafego - a.trafego; 
                 }).slice(0, 5);
 
                 const pioresDiv = document.getElementById('listaPiores');
@@ -379,21 +405,50 @@
                     `;
                 });
 
-                // Iniciar com o primeiro afiliado
+                // Iniciar com o primeiro afiliado da lista
                 atualizarFicha(0);
             });
 
         function atualizarFicha(index) {
             const af = dadosAfiliados[index];
             
+            // Textos principais
             document.getElementById('nomeAfiliado').innerText = af.nome;
             document.getElementById('trafegoAfiliado').innerText = af.trafego.toLocaleString('pt-BR');
             document.getElementById('leadsAfiliado').innerText = af.leads.toLocaleString('pt-BR');
             document.getElementById('receitaAfiliado').innerText = af.receita.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
             
+            // Conversão
             document.getElementById('conversaoAfiliadoTexto').innerText = af.conversao + '%';
             document.getElementById('barraConversao').style.width = Math.min(af.conversao, 100) + '%';
             
+            // Tabela de Campanhas com Mês
+            const tbody = document.getElementById('tabelaCampanhas');
+            tbody.innerHTML = ''; 
+            
+            if(af.campanhas && af.campanhas.length > 0) {
+                af.campanhas.forEach(camp => {
+                    // Impede erros caso alguma campanha venha sem nome ou mês preenchido
+                    const nomeCampanha = camp.nome ? camp.nome.replace(/^[0-9]+\s*-\s*/, '') : 'Desconhecida';
+                    const mesCampanha = camp.mes ? camp.mes : 'N/A';
+                    
+                    tbody.innerHTML += `
+                        <tr>
+                            <td class="ps-3 text-truncate" style="max-width: 180px;" title="${camp.nome}">
+                                <span class="fw-semibold text-dark small">${nomeCampanha}</span>
+                            </td>
+                            <td><span class="text-muted small">${mesCampanha}</span></td>
+                            <td class="text-center"><span class="badge bg-light text-dark border">${camp.trafego}</span></td>
+                            <td class="text-center"><span class="badge bg-warning bg-opacity-10 text-warning border border-warning">${camp.leads}</span></td>
+                            <td class="text-end pe-3 fw-bold text-success small">${camp.receita.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
+                        </tr>
+                    `;
+                });
+            } else {
+                tbody.innerHTML = '<tr><td colspan="5" class="text-center text-muted small py-4">Nenhuma campanha encontrada para este afiliado.</td></tr>';
+            }
+
+            // Insights e Selos de Qualidade
             document.getElementById('insightAfiliado').innerText = af.insight;
             const caixaInsight = document.getElementById('caixaInsight');
             const badge = document.getElementById('qualidadeAfiliado');
