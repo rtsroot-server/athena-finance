@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ATHENAFINANCE - Curadoria Premium</title>
+    <!-- CSS Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -44,6 +45,10 @@
         .podium-1 { color: #ffd700; }
         .podium-2 { color: #c0c0c0; }
         .podium-3 { color: #cd7f32; }
+        
+        /* Botão Info */
+        .info-btn { cursor: pointer; transition: 0.2s; }
+        .info-btn:hover { color: #3b82f6 !important; }
     </style>
 </head>
 <body>
@@ -200,7 +205,10 @@
                     <div class="col-lg-4 d-flex flex-column gap-4">
                         <!-- Ranking Top 5 -->
                         <div class="card premium-card p-4">
-                            <h5 class="fw-bold text-dark mb-4"><i class="bi bi-trophy-fill text-warning me-2"></i>Top 5 Receita</h5>
+                            <div class="d-flex justify-content-between align-items-center mb-4">
+                                <h5 class="fw-bold text-dark mb-0"><i class="bi bi-trophy-fill text-warning me-2"></i>Top 5 Receita</h5>
+                                <i class="bi bi-info-circle text-muted info-btn fs-5" data-bs-toggle="modal" data-bs-target="#modalCalculo" title="Ver Memória de Cálculo"></i>
+                            </div>
                             <div id="listaRanking" class="mt-2">
                                 <!-- Preenchido via JS -->
                             </div>
@@ -208,7 +216,10 @@
 
                         <!-- Ranking Piores -->
                         <div class="card premium-card p-4">
-                            <h5 class="fw-bold text-dark mb-4"><i class="bi bi-exclamation-triangle-fill text-danger me-2"></i>Alerta: Desperdício</h5>
+                            <div class="d-flex justify-content-between align-items-center mb-4">
+                                <h5 class="fw-bold text-dark mb-0"><i class="bi bi-exclamation-triangle-fill text-danger me-2"></i>Alerta: Desperdício</h5>
+                                <i class="bi bi-info-circle text-muted info-btn fs-5" data-bs-toggle="modal" data-bs-target="#modalCalculo" title="Ver Memória de Cálculo"></i>
+                            </div>
                             <div id="listaPiores" class="mt-2">
                                 <!-- Preenchido via JS -->
                             </div>
@@ -231,6 +242,45 @@
 
         </div>
     </div>
+
+    <!-- ========================================== -->
+    <!-- MODAL: MEMÓRIA DE CÁLCULO -->
+    <!-- ========================================== -->
+    <div class="modal fade" id="modalCalculo" tabindex="-1" aria-labelledby="modalCalculoLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+          <div class="modal-header bg-dark text-white border-0">
+            <h5 class="modal-title fw-bold" id="modalCalculoLabel"><i class="bi bi-calculator me-2"></i>Memória de Cálculo</h5>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+          </div>
+          <div class="modal-body p-4 text-dark">
+            <h6 class="fw-bold text-primary border-bottom pb-2 mb-3">Ranking: Top 5 Receita</h6>
+            <p class="small text-secondary mb-4">Os parceiros são ordenados puramente pelo <strong>volume total de receita gerada</strong> (do maior para o menor). Aquele que injeta mais dinheiro no caixa assume o Top 1.</p>
+
+            <h6 class="fw-bold text-danger border-bottom pb-2 mb-3">Ranking: Alerta de Desperdício</h6>
+            <p class="small text-secondary mb-2">Este ranking identifica potenciais perdas avaliando dois critérios em simultâneo:</p>
+            <ol class="small text-secondary mb-4">
+                <li><strong>1º Critério:</strong> Afiliados com a Menor Receita gerada (R$ 0,00).</li>
+                <li><strong>2º Critério (Desempate):</strong> Entre os que geraram zero, o sistema puxa para o topo aqueles que <strong>receberam o maior volume de tráfego</strong>. Ou seja, muitos cliques desperdiçados e nenhuma conversão.</li>
+            </ol>
+
+            <h6 class="fw-bold text-success border-bottom pb-2 mb-3">Inteligência Individual e Selos</h6>
+            <ul class="small text-secondary mb-0">
+                <li><strong>Conversão (%):</strong> <code>(Total de Leads ÷ Tráfego Gerado) × 100</code></li>
+                <li><strong>Selo Excelente:</strong> Receita acumulada superior a R$ 500,00.</li>
+                <li><strong>Selo Bom:</strong> Receita acumulada superior a R$ 50,00.</li>
+                <li><strong>Selo Atenção:</strong> Receita inferior a R$ 50,00 ou sem conversões.</li>
+            </ul>
+          </div>
+          <div class="modal-footer border-0 bg-light">
+            <button type="button" class="btn btn-secondary px-4" data-bs-dismiss="modal">Entendido</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- JS Bootstrap (Obrigatório para o Modal funcionar) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
     <script>
         // Navegação
